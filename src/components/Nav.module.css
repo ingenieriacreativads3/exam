@@ -1,0 +1,11 @@
+.general{
+    margin-left: 25%;
+    background-color: rgb(111, 111, 227);
+    justify-content:space-around;
+    color: white;
+    width: 50%;
+    height: 80px;
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
